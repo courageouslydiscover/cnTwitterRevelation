@@ -35,4 +35,4 @@
 - [３２．关系](docs/32.md)
 - [３３．雪飘](docs/33.md)
 - [后记](docs/epilogue.md)
-- [封底](docs/bottom.md)
+- [封底](bottom.md)
